@@ -24,5 +24,10 @@
   "devDependencies": {
     "webpack": "^3.7.1"
   },
-  "keywords": []
+  "keywords": [],
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
