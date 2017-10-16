@@ -1,0 +1,28 @@
+{
+  "name": "buildjs",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.html",
+  "scripts": {
+    "test": "start",
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agusnovi/buildJs.git"
+  },
+  "author": "agus novianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agusnovi/buildJs/issues"
+  },
+  "homepage": "https://github.com/agusnovi/buildJs#readme",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  },
+  "keywords": []
+}
