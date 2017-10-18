@@ -5,6 +5,7 @@ const path = require('path');
      output: {
          path: path.resolve(__dirname, 'bin'),
          filename: 'app.bundle.js',
+				 publicPath: `/`
      },
      module: {
          loaders: [{
