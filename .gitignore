@@ -11,7 +11,6 @@ npm-debug.log
 
 *.env
 *.env.*
-!.env.sample
 
 *.vscode
 *.log
