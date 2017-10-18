@@ -4,7 +4,7 @@
   "description": "learn",
   "main": "index.html",
   "scripts": {
-    "test": "start",
+    "start": "node server.js | grep -v \"\\[\\d*\\]\"",
     "commit": "git-cz"
   },
   "repository": {
